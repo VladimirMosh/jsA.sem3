@@ -58,6 +58,7 @@ body {
   color: #fff;
   font-size: 12px;
   box-shadow: inherit;
+  word-break: break-all;
   border-radius: inherit;
   padding: 5px;
   cursor: pointer;
@@ -110,4 +111,10 @@ button:disabled {
 
 .hide {
   display: none;
+}
+
+.footer {
+  text-align: center;
+  margin-bottom: 10px;
+  font-size: 12px;
 }/*# sourceMappingURL=style.css.map */
